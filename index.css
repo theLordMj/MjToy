@@ -1,0 +1,38 @@
+body{
+  background-color: silver;
+  padding: 25px;
+  text-align: center;
+  margin: auto;
+  padding: auto;
+}
+
+.card{
+  height: 250px;
+  background-color: white;
+  margin: 10px;
+  width: 100%;
+}
+
+.oona{
+  height: 50px;
+  background-color: white;
+  padding: -50px;
+}
+
+.col-lg-4{
+
+}
+h1{
+  font-size: 48px;
+  color:white;
+}
+
+#player1Name{
+  color:white;
+  font-size: 32px;
+}
+
+#player2Name{
+  color:black;
+  font-size: 32px;
+}
